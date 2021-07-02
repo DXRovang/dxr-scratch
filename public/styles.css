@@ -1,0 +1,21 @@
+body{
+  color: yellow;
+  background-color: orange;
+  margin: 30px;
+}
+.size{
+  width: 100%;
+  border-style: solid;
+  border-color: darkblue;
+  border-radius: 1px;
+}
+
+.nav{
+  margin-right: 10px;
+  padding: 10px;
+  border-style: solid;
+  border-color: turquoise;
+  border-radius: 3px;
+  text-decoration: none;
+  background-color: whitesmoke;
+}

@@ -2,9 +2,11 @@ import React from 'react';
  
 const Contact = () => {
     return (
-       <div>
-          <h1>Contact US</h1>
-          <p>Contact US page body content</p>
+       <div className="body">
+          <h1>Contact Info</h1>
+          Alexander Rovang<br></br>
+          DXRovang@gmail.com
+          <p><a className="link external"href="https://www.linkedin.com/in/alexanderrovang/"target="_blank" rel="noopener noreferrer">LinkedIn Link</a></p>
        </div>
     );
 }

@@ -19,3 +19,52 @@ body{
   text-decoration: none;
   background-color: whitesmoke;
 }
+
+.body{
+  background-image: url("54Below.jpg");
+  width: 100%;
+  height: 85vh;
+  border-style: solid;
+  border-color: darkblue;
+  border-radius: 1px;
+  background-size: cover;
+  /* margin: 10px; */
+}
+
+.external{
+  color: rgb(240, 15, 202);
+  text-decoration: none;
+  
+}
+
+.link{
+  /* margin-right: 5px; */
+  /* margin: auto; */
+  width: 20%;
+  padding: 5px;
+  border-style: solid;
+  border-color: turquoise;
+  border-radius: 3px;
+  text-decoration: none;
+  text-align: center;
+  background-color: rgb(139, 158, 140);
+}
+.music{
+  color: darkred;
+  background-color: rgb(204, 248, 206);
+  border-style: solid;
+  border-color: rgb(243, 248, 248);
+  border-radius: 3px;
+  display: block;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  width: 60%;
+}
+.youtube{
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}

@@ -7,10 +7,10 @@ const NavBar = () => {
     return (
        <div>
           <NavLink className="nav"to="/">Home</NavLink>
+          <NavLink className="nav"to="/code">Coding</NavLink>
+          <NavLink className="nav"to="/music">Music</NavLink>
           <NavLink className="nav"to="/about">About</NavLink>
           <NavLink className="nav"to="/contact">Contact</NavLink>
-          <NavLink className="nav"to="/music">Music</NavLink>
-          <NavLink className="nav"to="/code">Code</NavLink>
        </div>
     );
 } 

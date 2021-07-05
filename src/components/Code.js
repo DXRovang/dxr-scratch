@@ -5,20 +5,21 @@ const Code = () => {
 
     return (
        <div className="body">
-          <h1>Code title</h1>
-          <p>Code page content</p>
+          <h1>Full-Stack Software Engineering</h1>
+          <p>Flatiron, 2021</p>
+          <a className="link res"download="Resume.doc" target="_blank" href="/Resume.doc">Resume</a>
           <h3 className="link"><a className="external"href="https://dxrovang.github.io/tarot-trove-frontend/draws" target="_blank" rel="noopener noreferrer"><p>Tarot Trove Link</p></a>
           </h3>
           
-         <img className="logo"src="React-01.png"/>
+         <img className="background logo"src="React-01.png"/>
          <img className="logo"src="Ruby-01.png"/>
-         <img className="logo"src="Redux-01.png"/>
+         <img className="background logo"src="Redux-01.png"/>
          <img className="logo background"src="CSS-3-01.png"/>
          <img className="logo background"src="Rails-01.png"/>
          <img className="logo background"src="HTML-5-01.png"/>
-         <img className="logo"src="JavaScript-01.png"/>
-         <img className="logo"src="Postgresql-01.png"/>
-         <img className="logo"src="Bootstrap-01.png"/>
+         <img className="background logo"src="JavaScript-01.png"/>
+         <img className="background logo"src="Postgresql-01.png"/>
+         <img className=" background logo"src="Bootstrap-01.png"/>
          {/* <img className="logo"src="Logic.png"/> */}
         
        </div>

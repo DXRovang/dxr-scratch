@@ -53,15 +53,20 @@ body{
   color: darkred;
   background-color: rgb(204, 248, 206);
   border-style: solid;
-  border-color: rgb(243, 248, 248);
+  border-color: rgb(240, 15, 202);
   border-radius: 3px;
   display: block;
   margin-bottom: 20px;
-  margin-left: auto;
-  margin-right: auto;
+  /* margin-left: auto; */
+  margin-right: 5px;
   padding: 30px;
-  width: 60%;
+  width: 40%;
+  float: right;
+  clear: right;
 }
+/* .mp3{
+
+} */
 .youtube{
   width: 100%;
   margin-left: auto;
@@ -84,4 +89,8 @@ body{
 }
 .background{
   background-color: rgb(255, 250, 240, .3);
+}
+.res{
+  color: rgb(27, 3, 54);
+  text-decoration: none;
 }

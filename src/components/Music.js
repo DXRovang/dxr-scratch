@@ -12,12 +12,15 @@ const Music = () => {
 </div>
 
 <div className="music">
+<div className="mp3">Brahms, Op.117 #1</div>
    <audio  src="./brahms-117-1.mp3" controls/>
 </div>   
 <div className="music">
+<div className="mp3">Brahms, Op.118 #2</div>
    <audio  src="./brahms-118-2.mp3" controls/>
 </div> 
 <div className="music">
+   <div className="mp3">Brahms, Op.118 #5</div>
    <audio  src="./brahms-118-5.mp3" controls/>
 </div> 
        </div>

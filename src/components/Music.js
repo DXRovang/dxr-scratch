@@ -12,13 +12,13 @@ const Music = () => {
 </div>
 
 <div className="music">
-   <audio  src="./brahms-117-1.mp3" controls autoPlay />
+   <audio  src="./brahms-117-1.mp3" controls/>
 </div>   
 <div className="music">
-   <audio  src="./brahms-118-2.mp3" controls autoPlay />
+   <audio  src="./brahms-118-2.mp3" controls/>
 </div> 
 <div className="music">
-   <audio  src="./brahms-118-5.mp3" controls autoPlay />
+   <audio  src="./brahms-118-5.mp3" controls/>
 </div> 
        </div>
     );

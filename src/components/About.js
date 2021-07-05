@@ -5,8 +5,8 @@ const About = () => {
 
     return (
        <div className="body">
-          <h1>About title</h1>
-          <p>About page content</p>
+          <h1>Other projects</h1>
+          <p>other page content</p>
 
        </div>
     );

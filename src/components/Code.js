@@ -5,9 +5,12 @@ const Code = () => {
 
     return (
        <div className="body">
+          
           <h1>Full-Stack Software Engineer</h1>
           <p>Flatiron, 2021</p>
-          <a className="link res"download="Resume.doc" target="_blank" href="/Resume.doc">Resume</a>
+          <a className="link res"download="Resume.doc" target="_blank" href="/Resume.doc"> Download Resume</a>
+          {/* <a className="link res" target="_new" href="/Resume.doc">View Resume</a> */}
+
           <h3 className="link"><a className="external"href="https://dxrovang.github.io/tarot-trove-frontend/draws" target="_blank" rel="noopener noreferrer"><p>the Tarot Trove</p></a>
           </h3>
           

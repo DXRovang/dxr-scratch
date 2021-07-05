@@ -11,14 +11,14 @@ const Code = () => {
           </h3>
           
          <img className="logo"src="React-01.png"/>
-         <img className="logo"src="Bootstrap-01.png"/>
-         <img className="logo"src="CSS-3-01.png"/>
-         <img className="logo"src="HTML-5-01.png"/>
+         <img className="logo"src="Ruby-01.png"/>
+         <img className="logo"src="Redux-01.png"/>
+         <img className="logo background"src="CSS-3-01.png"/>
+         <img className="logo background"src="Rails-01.png"/>
+         <img className="logo background"src="HTML-5-01.png"/>
          <img className="logo"src="JavaScript-01.png"/>
          <img className="logo"src="Postgresql-01.png"/>
-         <img className="logo"src="Rails-01.png"/>
-         <img className="logo"src="Redux-01.png"/>
-         <img className="logo"src="Ruby-01.png"/>
+         <img className="logo"src="Bootstrap-01.png"/>
          {/* <img className="logo"src="Logic.png"/> */}
         
        </div>

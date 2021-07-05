@@ -5,10 +5,10 @@ const Code = () => {
 
     return (
        <div className="body">
-          <h1>Full-Stack Software Engineering</h1>
+          <h1>Full-Stack Software Engineer</h1>
           <p>Flatiron, 2021</p>
           <a className="link res"download="Resume.doc" target="_blank" href="/Resume.doc">Resume</a>
-          <h3 className="link"><a className="external"href="https://dxrovang.github.io/tarot-trove-frontend/draws" target="_blank" rel="noopener noreferrer"><p>Tarot Trove Link</p></a>
+          <h3 className="link"><a className="external"href="https://dxrovang.github.io/tarot-trove-frontend/draws" target="_blank" rel="noopener noreferrer"><p>the Tarot Trove</p></a>
           </h3>
           
          <img className="background logo"src="React-01.png"/>

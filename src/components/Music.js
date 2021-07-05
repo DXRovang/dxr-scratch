@@ -4,8 +4,8 @@ const Music = () => {
 
     return (
        <div className="body">
-          <h1>Music Page</h1>
-          <p>Music page content</p>
+          <h1>Music Director, Pianist, Arranger</h1>
+          <p>Oberlin Conservatory, 1992</p>
  <div className="music">
     Cirque Music, 2018.  Conductor
 <iframe className="youtube" width="560" height="315" src="https://www.youtube.com/embed/uMTN2sM6Q2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>hello</iframe>

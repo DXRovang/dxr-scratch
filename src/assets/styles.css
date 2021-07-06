@@ -38,15 +38,7 @@ body{
   width: 80%;
 
 }
-/* .body{
-  background-image: url("Bene.jpg");
-  width: 100%;
-  height: 85vh;
-  border-style: solid;
-  border-color: darkblue;
-  border-radius: 1px;
-  background-size: cover;
-} */
+
 
 .external{
   color: rgb(240, 15, 202);
@@ -80,9 +72,7 @@ body{
   float: right;
   clear: right;
 }
-/* .mp3{
 
-} */
 .youtube{
   width: 100%;
   margin-left: auto;
@@ -96,16 +86,14 @@ body{
   margin-right: 10%;
   margin-top: 2%;
   float: left;
-  /* background-color: rgb(255, 250, 240, .3); */
+  background-color: rgb(255, 250, 240, .3);
 }
 .center{
   text-align: center;
   margin-top: 10%;
   font-size: 36px;
 }
-.background{
-  background-color: rgb(255, 250, 240, .3);
-}
+
 .res{
   color: whitesmoke;
   text-decoration: none;
@@ -119,14 +107,18 @@ body{
 }
 .column2 {
   flex: 80%;
-  margin: 5%;
+  margin: 12vh;
+  margin-top: 1vh;
   align-content: center;
+  padding: 2vh;
 }
 
-.linkedin{
+#linkedin{
   height: 9vh;
-  /* width: 100%; */
 }
-.insta{
+#insta{
   height: 11vh;
+}
+.blurb{
+  margin: 3vh;
 }

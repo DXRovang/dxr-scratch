@@ -4,7 +4,7 @@ const Music = () => {
 
     return (
        <div className="body row">
-          <div className="column">
+          <div className="column blurb">
           <h1>Music Director, Pianist, Arranger</h1>
           <p>Oberlin Conservatory, 1992</p>
           <br></br><br></br>

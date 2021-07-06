@@ -32,8 +32,16 @@ body{
   border-color: darkblue;
   border-radius: 1px;
   background-size: cover;
-  /* margin: 10px; */
 }
+/* .body{
+  background-image: url("Bene.jpg");
+  width: 100%;
+  height: 85vh;
+  border-style: solid;
+  border-color: darkblue;
+  border-radius: 1px;
+  background-size: cover;
+} */
 
 .external{
   color: rgb(240, 15, 202);

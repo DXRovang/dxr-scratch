@@ -33,6 +33,11 @@ body{
   border-radius: 1px;
   background-size: cover;
 }
+.project{
+  height: 40vh;
+  width: 80%;
+
+}
 /* .body{
   background-image: url("Bene.jpg");
   width: 100%;
@@ -45,8 +50,7 @@ body{
 
 .external{
   color: rgb(240, 15, 202);
-  text-decoration: none;
-  
+  text-decoration: none; 
 }
 
 .link{
@@ -113,3 +117,11 @@ body{
 .column {
   flex: 50%;
 }
+.column2 {
+  flex: 80%;
+  margin: 5%;
+  align-content: center;
+}
+/* .right{
+  float: right;
+} */

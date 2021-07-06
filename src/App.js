@@ -1,5 +1,5 @@
 import React from 'react';
-import About from './components/About';
+import Other from './components/Other';
 import Home from './components/Home';
 import Contact from './components/Contact';
 import Music from './components/Music';
@@ -37,7 +37,7 @@ function App() {
       <NavBar />
       <Switch>
         <Route exact path="/" component={Home}/>
-        <Route exact path="/about" component={About}/>
+        <Route exact path="/other" component={Other}/>
         <Route exact path="/contact" component={Contact}/>
         <Route exact path="/music" component={Music}/>
         <Route exact path="/code" component={Code}/>

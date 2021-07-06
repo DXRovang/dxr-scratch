@@ -1,15 +1,15 @@
 import React from 'react';
  
-const About = () => {
+const Other = () => {
 
 
     return (
        <div className="body">
           <h1>Other projects</h1>
-          <p>other page content</p>
+          <p>Coming soon!</p>
 
        </div>
     );
 }
  
-export default About;
+export default Other;

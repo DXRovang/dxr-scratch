@@ -122,6 +122,11 @@ body{
   margin: 5%;
   align-content: center;
 }
-/* .right{
-  float: right;
-} */
+
+.linkedin{
+  height: 9vh;
+  /* width: 100%; */
+}
+.insta{
+  height: 11vh;
+}

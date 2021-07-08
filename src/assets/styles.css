@@ -34,11 +34,9 @@ body{
   background-size: cover;
 }
 .project{
-  height: 40vh;
+  height: 30vh;
   width: 80%;
-
 }
-
 
 .external{
   color: rgb(240, 15, 202);
@@ -112,6 +110,9 @@ body{
   align-content: center;
   padding: 2vh;
 }
+/* .column3{
+  float: left;
+} */
 
 #linkedin{
   height: 9vh;
@@ -121,4 +122,31 @@ body{
 }
 .blurb{
   margin: 3vh;
+}
+.intro1{
+  font-size: 40px;
+}
+.intro2{
+  color:rgb(129, 248, 236);
+  font-size: 28px;
+  text-shadow: 0 0 8px rgb(25, 4, 39);
+  background-color: rgba(237, 0, 0, 0.3);
+  margin-top: 10vh;
+}
+.intro3{
+  float: right;
+}
+.intro4{
+  color:rgb(129, 248, 236);
+  font-size: 18px;
+  text-shadow: 0 0 8px rgb(25, 4, 39);
+  background-color: rgba(237, 0, 0, 0.3);
+  padding: 5px;
+  width: 60%;
+}
+.inner{
+  margin: 10px;
+}
+.pos{
+  height: 50%;
 }

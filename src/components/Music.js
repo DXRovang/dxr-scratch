@@ -7,7 +7,8 @@ const Music = () => {
           <div className="column blurb">
           <h1>Music Director, Pianist, Arranger</h1>
           <p>Oberlin Conservatory, 1992</p>
-          <br></br><br></br>
+          
+          <div className="intro4">
           <p>Logic * Mainstage * Sibelius * Finale</p>
           <p>Classical (solo, chamber, opera)</p>
           <p>Musical Theatre</p>
@@ -19,7 +20,7 @@ const Music = () => {
           <p>Tuachan/Goodspeed/George St./O'Neill</p>
           <p>TUTS/MUNY/Engeman/Spoleto/Longacre</p>
           <p>Telsey/Wojcik-Seay/Calleri/Cherpakov</p>
-  
+          </div>
 
           </div>
           <div className="column">

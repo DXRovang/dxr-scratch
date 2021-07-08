@@ -28,7 +28,7 @@ const Code = () => {
           <h3 className="link column2">
              {/* <a className="external"href="https://dxrovang.github.io/tarot-trove-frontend/draws" target="_blank" rel="noopener noreferrer"> */}
              <div className="external">
-             <h1>the Memory Palace</h1>
+             <h1>Memory Palace</h1>
              <img className="project" src="/images/palace.png"/>
              <p>Coming Soon!</p></div>
              {/* </a> */}

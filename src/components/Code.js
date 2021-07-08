@@ -17,17 +17,21 @@ const Code = () => {
              <p>React & Rails API</p>
              </a>
           </h3>
-          <h3 className="link column2"><a className="external"href="https://dxrovang.github.io/tarot-trove-frontend/draws" target="_blank" rel="noopener noreferrer">
-             <h1>the Tarot Trove</h1>
-             <img className="project" src="/images/tarotb.jpg"/>
-             <p>React & Rails API</p>
-             </a>
+          <h3 className="link column2">
+             {/* <a className="external"href="https://dxrovang.github.io/tarot-trove-frontend/draws" target="_blank" rel="noopener noreferrer"> */}
+             <div className="external">
+             <h1>Old Time Strings</h1>
+             <img className="project" src="/images/mando.png"/>
+             <p>Coming Soon!</p></div>
+             {/* </a> */}
           </h3>
-          <h3 className="link column2"><a className="external"href="https://dxrovang.github.io/tarot-trove-frontend/draws" target="_blank" rel="noopener noreferrer">
-             <h1>the Tarot Trove</h1>
-             <img className="project" src="/images/tarotb.jpg"/>
-             <p>React & Rails API</p>
-             </a>
+          <h3 className="link column2">
+             {/* <a className="external"href="https://dxrovang.github.io/tarot-trove-frontend/draws" target="_blank" rel="noopener noreferrer"> */}
+             <div className="external">
+             <h1>the Memory Palace</h1>
+             <img className="project" src="/images/palace.png"/>
+             <p>Coming Soon!</p></div>
+             {/* </a> */}
           </h3>
           </div>
          
